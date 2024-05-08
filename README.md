@@ -29,7 +29,7 @@ Template make it from the math construction
 - `` pip install matplotlib ``
 - `` pip install numpy ``
 - `` pip install sympy ``
-- `` pip instal- jupyterlab ``
+- `` pip install jupyterlab ``
 - `` mkdir smith ``
 - `` cd smith ``
 - `` jupyter lab ``
