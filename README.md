@@ -24,7 +24,7 @@ Template make it from the math construction
 - `` sudo apt update ``
 - `` sudo apt install -y python3 ``
 - `` sudo apt install -y python3*-venv ``
-- `` py -m venv .env ``
+- `` python3 -m venv .env ``
 - `` source .env/bin/activate ``
 - `` pip install matplotlib ``
 - `` pip install numpy ``
