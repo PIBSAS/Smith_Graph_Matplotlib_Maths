@@ -15,7 +15,7 @@ Template make it from the math construction
 - `` py -m pip install matplotlib ``
 - `` py -m pip install numpy ``
 - `` py -m pip install sympy ``
-- `` py -m pip instal jupyterlab ``
+- `` py -m pip install jupyterlab ``
 - `` mkdir smith ``
 - `` cd smith ``
 - `` jupyter lab ``
@@ -29,7 +29,7 @@ Template make it from the math construction
 - `` pip install matplotlib ``
 - `` pip install numpy ``
 - `` pip install sympy ``
-- `` pip instal jupyterlab ``
+- `` pip instal- jupyterlab ``
 - `` mkdir smith ``
 - `` cd smith ``
 - `` jupyter lab ``
