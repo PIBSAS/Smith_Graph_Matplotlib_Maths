@@ -24,6 +24,7 @@ Template make it from the math construction
 
 # Crear Entorno Virtual (Linux):
 - `` sudo apt update ``
+- `` sudo apt upgrade -y ``
 - `` sudo apt install -y python3 ``
 - `` sudo apt install -y python3*-venv ``
 - `` python3 -m venv .env ``
