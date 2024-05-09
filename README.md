@@ -19,7 +19,7 @@ Template make it from the math construction
 - `` mkdir smith ``
 - `` cd smith ``
 - `` jupyter lab ``
-- `` Ctrl+S `` Stop Jupyter Lab Server
+- `` Ctrl+C `` Stop Jupyter Lab Server
 - `` deactivate `` Stop Virtual Environment
 
 # Crear Entorno Virtual (Linux):
@@ -36,5 +36,5 @@ Template make it from the math construction
 - `` mkdir smith ``
 - `` cd smith ``
 - `` jupyter lab ``
-- - `` Ctrl+S `` Stop Jupyter Lab Server
+- - `` Ctrl+C `` Stop Jupyter Lab Server
 - `` deactivate `` Stop Virtual Environment
