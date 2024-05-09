@@ -21,6 +21,8 @@ Template make it from the math construction
 - `` jupyter lab ``
 - `` Ctrl+C `` Stop Jupyter Lab Server
 - `` deactivate `` Stop Virtual Environment
+# Actualizar paquetes(En Terminal o PowerShell):
+- `` pip install -U $(pip list --outdated | Select-Object -Skip 2 | ForEach-Object { $_.Split()[0] }) ``
 
 # Crear Entorno Virtual (Linux):
 - `` sudo apt update ``
@@ -38,3 +40,5 @@ Template make it from the math construction
 - `` jupyter lab ``
 - - `` Ctrl+C `` Stop Jupyter Lab Server
 - `` deactivate `` Stop Virtual Environment
+# Actualizar paquetes:
+- `` pip install -U $(pip list --outdated | awk 'NR>2 {print $1}') ``
